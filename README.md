@@ -1,21 +1,35 @@
-# ATM System Using OOP in Python
-A simple ATM simulation built using
-Object-Oriented Programming (OOP).
+# Hi there, 👋 I'm Zeenath Sultana Rabia 
+## 👩‍💻 About Me 
+I'm an aspiring **Data Analyst** passionate about learning and solving problems with data. I'm currently  building a strong foundation in **Python**, **Microsoft Excel**, and programming fundamentals while documenting my progress through projects on GitHub.
 
-# Features
--Deposit money
--Withdraw money
--Check balance
--View account details
+I believe in learning by doing, so this profile is a collection of the projects and exercises I complete as I continue to grow my skills.
 
-## Concepts Used
--Classes
--Objects
--Constructors
--Methods
--Instance Variables
+## 🌱 Currently Learning 
+- 🐍 Python
+- 📊 Microsoft Excel
+- 💻 Object-Oriented Programming (OOP)
+- 📈 Data Analysis Fundamentals
 
-## How to Run
+- ## 🚀 Current Projects
+- Python OOP practice projects
+- Problem-solving exercises
+- Small Python applications
 
-1. Open the project in **Google Colab** or **jupyter Notebook**.
-2. Run the code cell to execute the ATM program.
+- ## 🎯 Goals
+- Strengthen my Python Programming skills
+- Learn SQL for data quering
+- Master Pandas and NumPy for data analysis
+- Learn Power BI for data visualization
+- Build real-world data analysis projects
+
+- ## 🛠 Skills
+- Python (Beginner)
+- Microsoft Excel (Learning)
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+
+- ## 📫 Connect with Me
+- LinkedIn:
+- http://www.linkedin.com/in/zeenath-sultana-rabia
+
+- > *"Continuous learning and consistent practice are the foundation of growth."*
